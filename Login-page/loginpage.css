@@ -1,0 +1,60 @@
+.body-style {
+  background-color: black;
+  padding-top: 0px;
+}
+.login-form {
+  background-color: rgb(18, 17, 17);
+  margin-left: 500px;
+  margin-right: 500px;
+  padding-bottom: 25px;
+  margin-top: 200px;
+  border: 1px solid rgb(87, 82, 82);
+  padding-top: 0px;
+}
+.sign-word {
+  color: rgb(19, 200, 19);
+  font-family: arial;
+  font-weight: bold;
+  font-size: 50px;
+  padding: 150px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.username-part {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 230px;
+  background-color: rgb(37, 36, 36);
+  border: 1px solid rgb(37, 36, 36);
+}
+.password-part {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 230px;
+  background-color: rgb(37, 36, 36);
+  border: 1px solid rgb(37, 36, 36);
+}
+.login-button {
+  background-color: rgb(19, 200, 19);
+  color: black;
+  font-weight: bold;
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  margin-top: 0px;
+}
+.forget-word {
+  color: white;
+  margin-left: 60px;
+}
+.signup-word {
+  color: rgb(19, 200, 19);
+  margin-left: 200px;
+}
+.words {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
